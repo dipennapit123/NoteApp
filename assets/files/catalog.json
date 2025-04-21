@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Classic T-Shirt",
+        "desc": "Soft cotton t-shirt with a relaxed fit.",
+        "price": 20,
+        "color": "#1E3A8A",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 2,
+        "name": "V-Neck Tee",
+        "desc": "Stylish v-neck tee made from organic cotton.",
+        "price": 22,
+        "color": "#DC2626",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 3,
+        "name": "Striped Shirt",
+        "desc": "Casual striped shirt for everyday wear.",
+        "price": 25,
+        "color": "#059669",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 4,
+        "name": "Pocket Tee",
+        "desc": "T-shirt with a front pocket and regular fit.",
+        "price": 18,
+        "color": "#F59E0B",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 5,
+        "name": "Long Sleeve Tee",
+        "desc": "Comfy long sleeve t-shirt for cooler days.",
+        "price": 28,
+        "color": "#10B981",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 6,
+        "name": "Graphic Tee",
+        "desc": "Bold printed t-shirt for a trendy look.",
+        "price": 24,
+        "color": "#7C3AED",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 7,
+        "name": "Basic Crew Neck",
+        "desc": "Everyday essential crew neck t-shirt.",
+        "price": 19,
+        "color": "#3B82F6",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 8,
+        "name": "Slim Fit Tee",
+        "desc": "Slim fit t-shirt for a sleek silhouette.",
+        "price": 26,
+        "color": "#D946EF",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 9,
+        "name": "Washed Tee",
+        "desc": "Vintage washed t-shirt with a soft feel.",
+        "price": 23,
+        "color": "#F43F5E",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      },
+      {
+        "id": 10,
+        "name": "Oversized Tee",
+        "desc": "Loose and oversized t-shirt for comfort.",
+        "price": 30,
+        "color": "#8B5CF6",
+        "image": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg"
+      }
+    ]
+  }
+  
