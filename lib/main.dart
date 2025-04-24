@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/pages/home_page.dart';
-import 'package:my_app/pages/login_page.dart';
-import 'package:my_app/utils/routes.dart';
-import 'package:my_app/widgets/themes.dart';
+import 'package:my_app/second_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -14,16 +11,30 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      themeMode: ThemeMode.light,
-      theme: MyTheme.lightTheme(context),
-      darkTheme: MyTheme.darkTheme(context),
-      initialRoute: MyRoutes.homeRoute,
+      initialRoute: '/',
       routes: {
-        "/": (context) => LoginPage(),
-        MyRoutes.homeRoute: (context) => HomePage(),
-        MyRoutes.loginRoute: (context) => LoginPage(),
+        '/': (context) => const HomeScreen(),
+        '/second': (context) => const SecondScreen(),
       },
+    );
+  }
+}
+
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("Home Screen")),
+      body: Center(
+        child: ElevatedButton(
+          onPressed: () {
+            Navigator.pushNamed(context, '/second');
+          },
+          child: const Text("Go to Second Screen"),
+        ),
+      ),
     );
   }
 }
