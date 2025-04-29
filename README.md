@@ -1,16 +1,7 @@
-# my_app
+# Note App
 
-A new Flutter project.
+## This is the note app built in flutter dart.
 
-## Getting Started
+### Here we can see the  not card in grid view
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-04-29 at 07 34 15](https://github.com/user-attachments/assets/fdcdedf7-0a27-4e8c-b47a-3c52a72c5e91)
